@@ -1,4 +1,11 @@
+@charset 'UTF-8';
+
 /*Reset CSS*/
+@font-face {
+    font-family: '';
+    src: url();
+}
+
 *{
     margin:0px;
     padding:0px;
