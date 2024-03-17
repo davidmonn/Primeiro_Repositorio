@@ -2,8 +2,8 @@
 
 /*Reset CSS*/
 @font-face {
-    font-family: 'exot';
-    src: url('fonts/exotica/Exotica.ttf') format(truetype);
+    font-family: 'exotic';
+    src: url(./fonts/exotica/Exotica.ttf) format(truetype);
     font-weight: normal;
     font-style: normal;
 }
@@ -37,7 +37,7 @@ nav p {
     color:aliceblue;
     padding-left: 10px;
     display: inline-block;
-    font-family: 'exot', 'Times New Roman', Times, serif;
+    font-family: 'exotic', 'Times New Roman', Times, serif;
 }
 
 #menu{
@@ -53,7 +53,7 @@ nav p {
 }
 
 #menu ul li{
-    font-family: 'exot', 'Times New Roman', Times, serif;
+    font-family: 'exotic', 'Times New Roman', Times, serif;
     font-size:1.2em;
     font-weight: bold;
     width:130px;
