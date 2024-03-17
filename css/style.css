@@ -16,6 +16,7 @@ header{
 header figure{
     width:120px;
     height:60px;
+    margin: auto;
     background-color: red;
     float:left;
     background-image: url(../imagens/cilios_esboco.jpg);
